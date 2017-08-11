@@ -2,7 +2,10 @@
 
 Homework in VSP2017 ELEC package C, Class A: Algorithms
 
-Instructor: ***Prof.*** <a href="https://www.ece.ubc.ca/faculty/sathish-gopalakrishnan">***Sathish Gopalakrishnan***</a>
+Instructors: 
+
+- ***Prof.*** <a href="https://www.ece.ubc.ca/faculty/sathish-gopalakrishnan">***Sathish Gopalakrishnan***</a>
+- ***Ph.D*** <a href="http://blogs.ubc.ca/bader/">***Bader Alahmad***</a>
 
 Homework submitted in pdf by latex.
 
