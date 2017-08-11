@@ -6,6 +6,7 @@ Instructor: ***Prof.*** <a href="https://www.ece.ubc.ca/faculty/sathish-gopalakr
 
 Homework submitted in pdf by latex.
 
-- <a href="https://github.com/Spacebody/2017-UBC-VSP-Algorithms/tree/master/Homework%201">Homework 1</a>
-- <a href="https://github.com/Spacebody/2017-UBC-VSP-Algorithms/tree/master/Homework%202">Homework 2</a>
-- Homework 3
+- <a href="https://github.com/Spacebody/2017-UBC-VSP-Algorithms/blob/master/Homework%201/VSP2017-HW1.pdf">Homework 1</a>
+- <a href="https://github.com/Spacebody/2017-UBC-VSP-Algorithms/blob/master/Homework%202/VSP2017-HW2.pdf">Homework 2</a>
+- <a href="https://github.com/Spacebody/2017-UBC-VSP-Algorithms/blob/master/Homework%203/VSP2017-HW3.pdf">Homework 3</a>
+- <a href="https://github.com/Spacebody/2017-UBC-VSP-Algorithms/blob/master/Makeup/makeup.pdf">Makeup HW</a>
