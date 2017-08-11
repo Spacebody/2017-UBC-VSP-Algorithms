@@ -13,3 +13,5 @@ Homework submitted in pdf by latex.
 - <a href="https://github.com/Spacebody/2017-UBC-VSP-Algorithms/blob/master/Homework%202/VSP2017-HW2.pdf">Homework 2</a>
 - <a href="https://github.com/Spacebody/2017-UBC-VSP-Algorithms/blob/master/Homework%203/VSP2017-HW3.pdf">Homework 3</a>
 - <a href="https://github.com/Spacebody/2017-UBC-VSP-Algorithms/blob/master/Makeup/makeup.pdf">Makeup HW</a>
+
+Permission with instructors, just for spread knowledge and exchange nice ideas. If you are interested, challenge yourself. Have fun in algorithms!
